@@ -1,3 +1,3 @@
 # vwarray
 
-vwarray is the array that bit width of each int type element is variable. 
+vwarray is scala implementation of array that bit width of int type element is variable. 
